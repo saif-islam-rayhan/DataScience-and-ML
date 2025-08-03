@@ -1,0 +1,22 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Amina",
+            "department": "CSE",
+            "cgpa": 3.85
+        },
+        {
+            "id": 2,
+            "name": "Rahim",
+            "department": "EEE",
+            "cgpa": 3.5
+        },
+        {
+            "id": 3,
+            "name": "Shila",
+            "department": "BBA",
+            "cgpa": 3.95
+        }
+    ]
+}

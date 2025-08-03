@@ -6,4 +6,10 @@ data = {
 }
 
 df = pd.DataFrame(data)
-print(df)
+# print(df)
+# Shows 5 rows
+print(df.head())
+print(df.columns)
+print(df.shape)
+print(df.describe())
+print(pd.DatetimeIndex)
